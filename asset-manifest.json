@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/accordion-withreact/static/css/main.1ef98907.css",
+    "main.js": "/accordion-withreact/static/js/main.78fd09eb.js",
+    "index.html": "/accordion-withreact/index.html",
+    "main.1ef98907.css.map": "/accordion-withreact/static/css/main.1ef98907.css.map",
+    "main.78fd09eb.js.map": "/accordion-withreact/static/js/main.78fd09eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ef98907.css",
+    "static/js/main.78fd09eb.js"
+  ]
+}
